@@ -26,7 +26,7 @@ Once the platform is running, it will mine blocks of data every second and adjus
 Contributions to QuantumCryptoConcurrency are always welcome. To contribute, simply fork the repository, make your changes, and submit a pull request. Please make sure to write clear commit messages and include any necessary documentation or tests.
 
 # License
-QuantumCryptoConcurrency is released under the MIT License. See LICENSE for details.
+QuantumCryptoConcurrency is released under the OpenAI GPT License. See LICENSE for details.
 
 # Contact
 If you have any questions or issues, feel free to contact us at support@quantumcryptoconcurrency.com.
